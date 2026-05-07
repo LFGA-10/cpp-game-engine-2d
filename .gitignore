@@ -1,0 +1,12 @@
+# Build
+build/
+bin/
+obj/
+*.exe
+*.o
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
